@@ -1,0 +1,29 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DotDaniil/express-api.git"
+  },
+  "author": "Daniil Tikhonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DotDaniil/express-api/issues"
+  },
+  "homepage": "https://github.com/DotDaniil/express-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

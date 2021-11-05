@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Скелет Гигантской Крысы",
+    "hp": 10,
+    "attack": 1,
+    "defense": 0,
+    "reward": 1
+  },
+
+  {
+    "id": 2,
+    "name": "Бешеный пёс",
+    "hp": 15,
+    "attack": 2,
+    "defense": 0,
+    "reward": 2
+  },
+
+  {
+    "id": 3,
+    "name": "Злючий Миньон-Cлабый",
+    "hp": 20,
+    "attack": 5,
+    "defense": 1,
+    "reward": 5
+  },
+
+  {
+    "id": 4,
+    "name": "Гоблин-Гигант",
+    "hp": 25,
+    "attack": 7,
+    "defense": 3,
+    "reward": 10
+  },
+
+  {
+    "id": 5,
+    "name": "Скелет-Норд",
+    "hp": 30,
+    "attack": 10,
+    "defense": 5,
+    "reward": 15
+  },
+
+  {
+    "id": 6,
+    "name": "Орк-Уркаган",
+    "hp": 35,
+    "attack": 13,
+    "defense": 8,
+    "reward": 25
+  },
+
+  {
+    "id": 7,
+    "name": "Суккуб Выносливый",
+    "hp": 45,
+    "attack": 17,
+    "defense": 12,
+    "reward": 35
+  },
+
+  {
+    "id": 8,
+    "name": "Флэм Огненный",
+    "hp": 50,
+    "attack": 20,
+    "defense": 15,
+    "reward": 45
+  },
+
+  {
+    "id": 9,
+    "name": "Ящер-Воин",
+    "hp": 65,
+    "attack": 28,
+    "defense": 20,
+    "reward": 55
+  },
+
+  {
+    "id": 10,
+    "name": "Бродяга-Страж",
+    "hp": 75,
+    "attack": 35,
+    "defense": 30,
+    "reward": 70
+  }
+]
